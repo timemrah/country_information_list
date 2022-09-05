@@ -1,0 +1,824 @@
+{
+  "AD": {
+    "code": "AD",
+    "englishName": "Andorra",
+    "turkishName": "Andora",
+    "ownLangName": "Andorra"
+  },
+  "AF": {
+    "code": "AF",
+    "englishName": "Afghanistan",
+    "turkishName": "Afganistan",
+    "ownLangName": "أَفْغَانِسْتَان"
+  },
+  "AG": {
+    "code": "AG",
+    "englishName": "Antigua and Barbuda",
+    "turkishName": "Antigua ve Barbuda",
+    "ownLangName": "Antigua and Barbuda"
+  },
+  "AL": {
+    "code": "AL",
+    "englishName": "Albania",
+    "turkishName": "Arnavutluk",
+    "ownLangName": "Shqipëri/Shqipëria"
+  },
+  "AM": {
+    "code": "AM",
+    "englishName": "Armenia",
+    "turkishName": "Ermenistan",
+    "ownLangName": "Հայաստան"
+  },
+  "AR": {
+    "code": "AR",
+    "englishName": "Argentina",
+    "turkishName": "Arjantin",
+    "ownLangName": "Argentina"
+  },
+  "AT": {
+    "code": "AT",
+    "englishName": "Austria",
+    "turkishName": "Avusturya",
+    "ownLangName": "Österreich"
+  },
+  "AU": {
+    "code": "AU",
+    "englishName": "Australia",
+    "turkishName": "Avustralya",
+    "ownLangName": "Australia"
+  },
+  "AZ": {
+    "code": "AZ",
+    "englishName": "Azerbaijan",
+    "turkishName": "Azerbaycan",
+    "ownLangName": "Azǝrbaycan"
+  },
+  "BA": {
+    "code": "BA",
+    "englishName": "Bosnia and Herzegovina",
+    "turkishName": "Bosna ve Hersek",
+    "ownLangName": "Bosna i Hercegovina"
+  },
+  "BB": {
+    "code": "BB",
+    "englishName": "Barbados",
+    "turkishName": "Barbados",
+    "ownLangName": "Barbados"
+  },
+  "BD": {
+    "code": "BD",
+    "englishName": "Bangladesh",
+    "turkishName": "Bangladeş",
+    "ownLangName": "বাংলাদেশ"
+  },
+  "BE": {
+    "code": "BE",
+    "englishName": "Belgium",
+    "turkishName": "Belçika",
+    "ownLangName": "België"
+  },
+  "BF": {
+    "code": "BF",
+    "englishName": "Burkina Faso",
+    "turkishName": "Burkina Faso",
+    "ownLangName": "Burkina"
+  },
+  "BG": {
+    "code": "BG",
+    "englishName": "Bulgaria",
+    "turkishName": "Bulgaristan",
+    "ownLangName": "България"
+  },
+  "BH": {
+    "code": "BH",
+    "englishName": "Bahrain",
+    "turkishName": "Bahreyn",
+    "ownLangName": "البحرين"
+  },
+  "BI": {
+    "code": "BI",
+    "englishName": "Burundi",
+    "turkishName": "Burundi",
+    "ownLangName": "Burundi"
+  },
+  "BJ": {
+    "code": "BJ",
+    "englishName": "Benin",
+    "turkishName": "Benin",
+    "ownLangName": "Bénin"
+  },
+  "BR": {
+    "code": "BR",
+    "englishName": "Brazil",
+    "turkishName": "Brezilya",
+    "ownLangName": "Brasil"
+  },
+  "BS": {
+    "code": "BS",
+    "englishName": "Bahamas",
+    "turkishName": "Bahamalar",
+    "ownLangName": "Bahamas"
+  },
+  "BT": {
+    "code": "BT",
+    "englishName": "Bhutan",
+    "turkishName": "Bhutan",
+    "ownLangName": "Druk yul"
+  },
+  "BW": {
+    "code": "BW",
+    "englishName": "Botswana",
+    "turkishName": "Botsvana",
+    "ownLangName": "Botswana"
+  },
+  "BZ": {
+    "code": "BZ",
+    "englishName": "Belize",
+    "turkishName": "Belize",
+    "ownLangName": "Belize"
+  },
+  "CA": {
+    "code": "CA",
+    "englishName": "Canada",
+    "turkishName": "Kanada",
+    "ownLangName": "Canada"
+  },
+  "CF": {
+    "code": "CF",
+    "englishName": "Central African Republic",
+    "turkishName": "Orta Afrika Cumhuriyeti",
+    "ownLangName": "République centrafricaine"
+  },
+  "CL": {
+    "code": "CL",
+    "englishName": "Chile",
+    "turkishName": "Şili",
+    "ownLangName": "Chile"
+  },
+  "CM": {
+    "code": "CM",
+    "englishName": "Cameroon",
+    "turkishName": "Kamerun",
+    "ownLangName": "Cameroon"
+  },
+  "CO": {
+    "code": "CO",
+    "englishName": "Colombia",
+    "turkishName": "Kolombiya",
+    "ownLangName": "Colombia"
+  },
+  "CR": {
+    "code": "CR",
+    "englishName": "Costa Rica",
+    "turkishName": "Kosta Rika",
+    "ownLangName": "Costa Rica"
+  },
+  "CU": {
+    "code": "CU",
+    "englishName": "Cuba",
+    "turkishName": "Küba",
+    "ownLangName": "Cuba"
+  },
+  "CV": {
+    "code": "CV",
+    "englishName": "Cape Verde",
+    "turkishName": "Cape Verde",
+    "ownLangName": "Cabo Verde"
+  },
+  "CY": {
+    "code": "CY",
+    "englishName": "Cyprus",
+    "turkishName": "Kıbrıs Rum Kesimi",
+    "ownLangName": "Κύπρος (Kýpros)"
+  },
+  "DJ": {
+    "code": "DJ",
+    "englishName": "Djibouti",
+    "turkishName": "Cibuti",
+    "ownLangName": "جيبوتي"
+  },
+  "DK": {
+    "code": "DK",
+    "englishName": "Denmark",
+    "turkishName": "Danimarka",
+    "ownLangName": "Danmark"
+  },
+  "DM": {
+    "code": "DM",
+    "englishName": "Dominica",
+    "turkishName": "Dominika",
+    "ownLangName": "Dominica"
+  },
+  "DO": {
+    "code": "DO",
+    "englishName": "Dominican Republic",
+    "turkishName": "Dominik Cumhuriyeti",
+    "ownLangName": "Dominicana"
+  },
+  "DZ": {
+    "code": "DZ",
+    "englishName": "Algeria",
+    "turkishName": "Cezayir",
+    "ownLangName": "الجزائر"
+  },
+  "EE": {
+    "code": "EE",
+    "englishName": "Estonia",
+    "turkishName": "Estonya",
+    "ownLangName": "Eesti"
+  },
+  "EG": {
+    "code": "EG",
+    "englishName": "Egypt",
+    "turkishName": "Mısır",
+    "ownLangName": "مصر"
+  },
+  "ER": {
+    "code": "ER",
+    "englishName": "Eritrea",
+    "turkishName": "Eritre",
+    "ownLangName": "إريتريا"
+  },
+  "ET": {
+    "code": "ET",
+    "englishName": "Ethiopia",
+    "turkishName": "Etiyopya",
+    "ownLangName": "Ityop'iya"
+  },
+  "FJ": {
+    "code": "FJ",
+    "englishName": "Fiji",
+    "turkishName": "Fiji",
+    "ownLangName": "Fiji"
+  },
+  "GA": {
+    "code": "GA",
+    "englishName": "Gabon",
+    "turkishName": "Gabon",
+    "ownLangName": "Gabon"
+  },
+  "GE": {
+    "code": "GE",
+    "englishName": "Georgia",
+    "turkishName": "Gürcistan",
+    "ownLangName": "საქართველო"
+  },
+  "GH": {
+    "code": "GH",
+    "englishName": "Ghana",
+    "turkishName": "Gana",
+    "ownLangName": "Ghana"
+  },
+  "GN": {
+    "code": "GN",
+    "englishName": "Guinea",
+    "turkishName": "Gine",
+    "ownLangName": "Guinée"
+  },
+  "GQ": {
+    "code": "GQ",
+    "englishName": "Equatorial Guinea",
+    "turkishName": "Ekvator Ginesi",
+    "ownLangName": "Guinée équatoriale"
+  },
+  "GR": {
+    "code": "GR",
+    "englishName": "Greece",
+    "turkishName": "Yunanistan",
+    "ownLangName": "Ελλάς"
+  },
+  "GT": {
+    "code": "GT",
+    "englishName": "Guatemala",
+    "turkishName": "Guatemala",
+    "ownLangName": "Guatemala"
+  },
+  "GW": {
+    "code": "GW",
+    "englishName": "Guinea-Bissau",
+    "turkishName": "Gine-Bissau",
+    "ownLangName": "Guiné-Bissau"
+  },
+  "GY": {
+    "code": "GY",
+    "englishName": "Guyana",
+    "turkishName": "Guyana",
+    "ownLangName": "Guyana"
+  },
+  "HR": {
+    "code": "HR",
+    "englishName": "Croatia",
+    "turkishName": "Hırvatistan",
+    "ownLangName": "Hrvatska"
+  },
+  "HT": {
+    "code": "HT",
+    "englishName": "Haiti",
+    "turkishName": "Haiti",
+    "ownLangName": "Haïti"
+  },
+  "HU": {
+    "code": "HU",
+    "englishName": "Hungary",
+    "turkishName": "Macaristan",
+    "ownLangName": "Magyarország"
+  },
+  "ID": {
+    "code": "ID",
+    "englishName": "Indonesia",
+    "turkishName": "Endonezya",
+    "ownLangName": "Indonesia"
+  },
+  "IE": {
+    "code": "IE",
+    "englishName": "Ireland",
+    "turkishName": "İrlanda",
+    "ownLangName": "Ireland"
+  },
+  "IL": {
+    "code": "IL",
+    "englishName": "Israel",
+    "turkishName": "İsrail",
+    "ownLangName": "إسرائيل"
+  },
+  "IN": {
+    "code": "IN",
+    "englishName": "India",
+    "turkishName": "Hindistan",
+    "ownLangName": "India"
+  },
+  "IQ": {
+    "code": "IQ",
+    "englishName": "Iraq",
+    "turkishName": "Irak",
+    "ownLangName": "العراق"
+  },
+  "IS": {
+    "code": "IS",
+    "englishName": "Iceland",
+    "turkishName": "İzlanda",
+    "ownLangName": "Ísland"
+  },
+  "JM": {
+    "code": "JM",
+    "englishName": "Jamaica",
+    "turkishName": "Jamaika",
+    "ownLangName": "Jamaica"
+  },
+  "JO": {
+    "code": "JO",
+    "englishName": "Jordan",
+    "turkishName": "Ürdün",
+    "ownLangName": "الأردن"
+  },
+  "JP": {
+    "code": "JP",
+    "englishName": "Japan",
+    "turkishName": "Japonya",
+    "ownLangName": "Nihon or Nippon"
+  },
+  "KE": {
+    "code": "KE",
+    "englishName": "Kenya",
+    "turkishName": "Kenya",
+    "ownLangName": "Kenya"
+  },
+  "KG": {
+    "code": "KG",
+    "englishName": "Kyrgyzstan",
+    "turkishName": "Kırgızistan",
+    "ownLangName": "Кыргызстан"
+  },
+  "KH": {
+    "code": "KH",
+    "englishName": "Cambodia",
+    "turkishName": "Kamboçya",
+    "ownLangName": "Kâmpŭchéa"
+  },
+  "KI": {
+    "code": "KI",
+    "englishName": "Kiribati",
+    "turkishName": "Kiribati",
+    "ownLangName": "Kiribati"
+  },
+  "KW": {
+    "code": "KW",
+    "englishName": "Kuwait",
+    "turkishName": "Kuveyt",
+    "ownLangName": "الكويت"
+  },
+  "KZ": {
+    "code": "KZ",
+    "englishName": "Kazakhstan",
+    "turkishName": "Kazakistan",
+    "ownLangName": "Қазақстан"
+  },
+  "LB": {
+    "code": "LB",
+    "englishName": "Lebanon",
+    "turkishName": "Lübnan",
+    "ownLangName": "لبنان"
+  },
+  "LI": {
+    "code": "LI",
+    "englishName": "Liechtenstein",
+    "turkishName": "Lihtenştayn",
+    "ownLangName": "Liechtenstein"
+  },
+  "LK": {
+    "code": "LK",
+    "englishName": "Sri Lanka",
+    "turkishName": "Sri Lanka",
+    "ownLangName": "Shrī Lamkā"
+  },
+  "LR": {
+    "code": "LR",
+    "englishName": "Liberia",
+    "turkishName": "Liberya",
+    "ownLangName": "Liberia"
+  },
+  "LS": {
+    "code": "LS",
+    "englishName": "Lesotho",
+    "turkishName": "Lesotho",
+    "ownLangName": "Lesotho"
+  },
+  "LT": {
+    "code": "LT",
+    "englishName": "Lithuania",
+    "turkishName": "Litvanya",
+    "ownLangName": "Lietuva"
+  },
+  "LU": {
+    "code": "LU",
+    "englishName": "Luxembourg",
+    "turkishName": "Lüksemburg",
+    "ownLangName": "Luxembourg"
+  },
+  "LV": {
+    "code": "LV",
+    "englishName": "Latvia",
+    "turkishName": "Letonya",
+    "ownLangName": "Latvija"
+  },
+  "MA": {
+    "code": "MA",
+    "englishName": "Morocco",
+    "turkishName": "Fas",
+    "ownLangName": "المغرب"
+  },
+  "ME": {
+    "code": "ME",
+    "englishName": "Montenegro",
+    "turkishName": "Karadağ",
+    "ownLangName": "Црна Гора"
+  },
+  "MG": {
+    "code": "MG",
+    "englishName": "Madagascar",
+    "turkishName": "Madagaskar",
+    "ownLangName": "Madagascar"
+  },
+  "MH": {
+    "code": "MH",
+    "englishName": "Marshall Islands",
+    "turkishName": "Marshall Adaları",
+    "ownLangName": "Marshall Islands"
+  },
+  "ML": {
+    "code": "ML",
+    "englishName": "Mali",
+    "turkishName": "Mali",
+    "ownLangName": "Mali"
+  },
+  "MN": {
+    "code": "MN",
+    "englishName": "Mongolia",
+    "turkishName": "Moğolistan",
+    "ownLangName": "Монгол"
+  },
+  "MR": {
+    "code": "MR",
+    "englishName": "Mauritania",
+    "turkishName": "Moritanya",
+    "ownLangName": "موريتانيا"
+  },
+  "MV": {
+    "code": "MV",
+    "englishName": "Maldives",
+    "turkishName": "Maldivler",
+    "ownLangName": "ގުޖޭއްރާ ޔާއްރިހޫމްޖު"
+  },
+  "MW": {
+    "code": "MW",
+    "englishName": "Malawi",
+    "turkishName": "Malavi",
+    "ownLangName": "Malaŵi"
+  },
+  "MX": {
+    "code": "MX",
+    "englishName": "Mexico",
+    "turkishName": "Meksika",
+    "ownLangName": "México"
+  },
+  "MZ": {
+    "code": "MZ",
+    "englishName": "Mozambique",
+    "turkishName": "Mozambik",
+    "ownLangName": "Moçambique"
+  },
+  "NA": {
+    "code": "NA",
+    "englishName": "Namibia",
+    "turkishName": "Namibya",
+    "ownLangName": "Namibia"
+  },
+  "NE": {
+    "code": "NE",
+    "englishName": "Niger",
+    "turkishName": "Nijer",
+    "ownLangName": "Niger"
+  },
+  "NG": {
+    "code": "NG",
+    "englishName": "Nigeria",
+    "turkishName": "Nijerya",
+    "ownLangName": "Nigeria"
+  },
+  "NL": {
+    "code": "NL",
+    "englishName": "Netherlands",
+    "turkishName": "Hollanda",
+    "ownLangName": "Nederland"
+  },
+  "NP": {
+    "code": "NP",
+    "englishName": "Nepal",
+    "turkishName": "Nepal",
+    "ownLangName": "नेपाल"
+  },
+  "NR": {
+    "code": "NR",
+    "englishName": "Nauru",
+    "turkishName": "Nauru",
+    "ownLangName": "Nauru"
+  },
+  "OM": {
+    "code": "OM",
+    "englishName": "Oman",
+    "turkishName": "Umman",
+    "ownLangName": "عمان"
+  },
+  "PE": {
+    "code": "PE",
+    "englishName": "Peru",
+    "turkishName": "Peru",
+    "ownLangName": "Perú"
+  },
+  "PH": {
+    "code": "PH",
+    "englishName": "Philippines",
+    "turkishName": "Filipinler",
+    "ownLangName": "Philippines"
+  },
+  "PK": {
+    "code": "PK",
+    "englishName": "Pakistan",
+    "turkishName": "Pakistan",
+    "ownLangName": "Pakistan"
+  },
+  "PL": {
+    "code": "PL",
+    "englishName": "Poland",
+    "turkishName": "Polonya",
+    "ownLangName": "Polska"
+  },
+  "PW": {
+    "code": "PW",
+    "englishName": "Palau",
+    "turkishName": "Palau",
+    "ownLangName": "Palau"
+  },
+  "PY": {
+    "code": "PY",
+    "englishName": "Paraguay",
+    "turkishName": "Paraguay",
+    "ownLangName": "Paraguay"
+  },
+  "QA": {
+    "code": "QA",
+    "englishName": "Qatar",
+    "turkishName": "Katar",
+    "ownLangName": "قطر"
+  },
+  "RO": {
+    "code": "RO",
+    "englishName": "Romania",
+    "turkishName": "Romanya",
+    "ownLangName": "România"
+  },
+  "RS": {
+    "code": "RS",
+    "englishName": "Serbia",
+    "turkishName": "Sırbistan",
+    "ownLangName": "Србија"
+  },
+  "RW": {
+    "code": "RW",
+    "englishName": "Rwanda",
+    "turkishName": "Ruanda",
+    "ownLangName": "Rwanda"
+  },
+  "SA": {
+    "code": "SA",
+    "englishName": "Saudi Arabia",
+    "turkishName": "Suudi Arabistan",
+    "ownLangName": "المملكة العربية السعودية"
+  },
+  "SB": {
+    "code": "SB",
+    "englishName": "Solomon Islands",
+    "turkishName": "Solomon Adaları",
+    "ownLangName": "Solomon Islands"
+  },
+  "SE": {
+    "code": "SE",
+    "englishName": "Sweden",
+    "turkishName": "İsveç",
+    "ownLangName": "Sverige"
+  },
+  "SG": {
+    "code": "SG",
+    "englishName": "Singapore",
+    "turkishName": "Singapur",
+    "ownLangName": "Xinjiapo"
+  },
+  "SI": {
+    "code": "SI",
+    "englishName": "Slovenia",
+    "turkishName": "Slovenya",
+    "ownLangName": "Slovenija"
+  },
+  "SK": {
+    "code": "SK",
+    "englishName": "Slovakia",
+    "turkishName": "Slovakya",
+    "ownLangName": "Slovensko"
+  },
+  "SL": {
+    "code": "SL",
+    "englishName": "Sierra Leone",
+    "turkishName": "Sierra Leone",
+    "ownLangName": "Sierra Leone"
+  },
+  "SM": {
+    "code": "SM",
+    "englishName": "San Marino",
+    "turkishName": "San Marino",
+    "ownLangName": "San Marino"
+  },
+  "SN": {
+    "code": "SN",
+    "englishName": "Senegal",
+    "turkishName": "Senegal",
+    "ownLangName": "Sénégal (le)"
+  },
+  "SO": {
+    "code": "SO",
+    "englishName": "Somalia",
+    "turkishName": "Somali",
+    "ownLangName": "اَلصُّومَال"
+  },
+  "SR": {
+    "code": "SR",
+    "englishName": "Suriname",
+    "turkishName": "Surinam",
+    "ownLangName": "Suriname"
+  },
+  "SS": {
+    "code": "SS",
+    "englishName": "South Sudan",
+    "turkishName": "Güney Sudan",
+    "ownLangName": "South Sudan"
+  },
+  "ST": {
+    "code": "ST",
+    "englishName": "São Tomé and Príncipe",
+    "turkishName": "Sao Tome ve Principe",
+    "ownLangName": "São Tomé e Príncipe"
+  },
+  "SV": {
+    "code": "SV",
+    "englishName": "El Salvador",
+    "turkishName": "El Salvador",
+    "ownLangName": "El Salvador"
+  },
+  "TD": {
+    "code": "TD",
+    "englishName": "Chad",
+    "turkishName": "Çad",
+    "ownLangName": "تشاد"
+  },
+  "TG": {
+    "code": "TG",
+    "englishName": "Togo",
+    "turkishName": "Togo",
+    "ownLangName": "Togo"
+  },
+  "TH": {
+    "code": "TH",
+    "englishName": "Thailand",
+    "turkishName": "Tayland",
+    "ownLangName": "ประเทศไทย"
+  },
+  "TJ": {
+    "code": "TJ",
+    "englishName": "Tajikistan",
+    "turkishName": "Tacikistan",
+    "ownLangName": "Тоҷикистон"
+  },
+  "TM": {
+    "code": "TM",
+    "englishName": "Turkmenistan",
+    "turkishName": "Türkmenistan",
+    "ownLangName": "Türkmenistan"
+  },
+  "TN": {
+    "code": "TN",
+    "englishName": "Tunisia",
+    "turkishName": "Tunus",
+    "ownLangName": "تونس"
+  },
+  "TO": {
+    "code": "TO",
+    "englishName": "Tonga",
+    "turkishName": "Tonga",
+    "ownLangName": "Tonga"
+  },
+  "TR": {
+    "code": "TR",
+    "englishName": "Turkey",
+    "turkishName": "Türkiye",
+    "ownLangName": "Türkiye"
+  },
+  "TV": {
+    "code": "TV",
+    "englishName": "Tuvalu",
+    "turkishName": "Tuvalu",
+    "ownLangName": "Tuvalu"
+  },
+  "UA": {
+    "code": "UA",
+    "englishName": "Ukraine",
+    "turkishName": "Ukrayna",
+    "ownLangName": "Украïна"
+  },
+  "UG": {
+    "code": "UG",
+    "englishName": "Uganda",
+    "turkishName": "Uganda",
+    "ownLangName": "Uganda"
+  },
+  "UY": {
+    "code": "UY",
+    "englishName": "Uruguay",
+    "turkishName": "Uruguay",
+    "ownLangName": "Uruguay"
+  },
+  "UZ": {
+    "code": "UZ",
+    "englishName": "Uzbekistan",
+    "turkishName": "Özbekistan",
+    "ownLangName": "O'zbekiston"
+  },
+  "VN": {
+    "code": "VN",
+    "englishName": "Vietnam",
+    "turkishName": "Vietnam",
+    "ownLangName": "Việt Nam"
+  },
+  "VU": {
+    "code": "VU",
+    "englishName": "Vanuatu",
+    "turkishName": "Vanuatu",
+    "ownLangName": "Vanuatu"
+  },
+  "ZA": {
+    "code": "ZA",
+    "englishName": "South Africa",
+    "turkishName": "Güney Afrika",
+    "ownLangName": "Suid-Afrika"
+  },
+  "ZM": {
+    "code": "ZM",
+    "englishName": "Zambia",
+    "turkishName": "Zambia",
+    "ownLangName": "Zambia"
+  },
+  "ZW": {
+    "code": "ZW",
+    "englishName": "Zimbabwe",
+    "turkishName": "Zimbabve",
+    "ownLangName": "Zimbabwe"
+  }
+}
